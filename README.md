@@ -16,6 +16,11 @@ The required file is:
 
 - `SKILL.md`
 
+## How to USE ?
+
+Upoad your CV and JD and paste this prompt ##
+# " I want to apply for interaction Designer at Google. Here's the JD /resume-tailoring "
+
 ## Notes
 
 - This packaged repo keeps the skill self-contained.
